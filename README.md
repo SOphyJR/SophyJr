@@ -112,8 +112,9 @@ const sophonyas = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophyJR&layout=compact&theme=merko&hide_border=true&title_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8&langs_count=8" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SophyJR&theme=merko&hide_border=true&ring=1A7A6B&fire=1A7A6B&currStreakLabel=1A7A6B&background=F5F9F8&sideLabels=2C2C2C&dates=666666" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophyJR&layout=compact&theme=merko&hide_border=true" />
+
+  <img height="160" src="https://streak-stats.demolab.com?user=SophyJR&theme=merko&hide_border=true" />
 </div>
 
 ---
