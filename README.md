@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A7A6B&amp;height=200&amp;section=header&amp;text=Sophonyas%20Bewuketu&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20%26%20Mobile%20Developer&amp;descSize=18&amp;descAlignY=58&amp;descColor=a8e6da" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=200&section=header&text=Sophonyas%20Bewuketu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=a8e6da)
 
 <img align="center" width="300" src="Fit-Go Delivery.png" />
 
