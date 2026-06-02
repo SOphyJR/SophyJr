@@ -112,9 +112,7 @@ const sophonyas = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SophyJr&show_icons=true&theme=github_dark&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophyJr&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sophyjr&theme=algolia&no-frame=true&row=1" />
 </div>
 
 ---
