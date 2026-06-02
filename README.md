@@ -113,6 +113,7 @@ const sophonyas = {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOphyJR&theme=github_dark" />
 </p>
+
 ---
 
 ### 🏆 Highlights
