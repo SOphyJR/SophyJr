@@ -119,7 +119,7 @@ const sophonyas = {
 
 ### 🏆 Highlights
 
-- 🎓 **3rd-year IS student** shipping production apps — not just side projects
+- 🎓 **3rd-year AAU student** shipping production apps — not just side projects
 - 🔐 **Firebase Auth + PostgreSQL** hybrid auth system across mobile & web
 - 🎨 **Full brand identity** — from logo to animated marketing site with scroll-triggered motion
 - ☁️ **Cloud-native deployments** — Cloudinary CDN, Railway Procfile, env-var management
