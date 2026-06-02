@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A7A6B&center=true&vCenter=true&width=600&lines=Building+FitGo+%E2%80%94+On-demand+Fashion+Delivery;React+Native+%7C+Node.js+%7C+PostgreSQL;AI-Powered+Products+%7C+Cloud+Infrastructure;3rd-Year+IS+Student+%40+AAU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A7A6B&center=true&vCenter=true&width=600&lines=Building+FitGo+%E2%80%94+On-demand+Fashion+Delivery;React+Native+%7C+Node.js+%7C+PostgreSQL;AI-Powered+Products+%7C+Cloud+Infrastructure;3rd-Year+Student+%40+Addis_Ababa_University)](https://git.io/typing-svg)
 
 </div>
 
