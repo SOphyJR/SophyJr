@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=200&section=header&text=Sophonyas%20Bewuketu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=a8e6da" />
 
+<img src="./assets/profile.jpg" width="110" />
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A7A6B&center=true&vCenter=true&width=600&lines=Building+FitGo+%E2%80%94+On-demand+Fashion+Delivery;React+Native+%7C+Node.js+%7C+PostgreSQL;AI-Powered+Products+%7C+Cloud+Infrastructure;3rd-Year+IS+Student+%40+AAU)](https://git.io/typing-svg)
@@ -10,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=sophonyasb&show_icons=true&theme=merko&hide_border=true&title_color=1A7A6B&icon_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=SophyJR&show_icons=true&theme=merko&hide_border=true&title_color=1A7A6B&icon_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8" />
 
 ### 👋 About Me
 
@@ -64,37 +66,43 @@ const sophonyas = {
 **Design & AI**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-1A7A6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-1A7A6B?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">FitGo Delivery</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛵 FitGo Delivery</h3>
       <div align="center">
+        <img src="./assets/Fit-Go Delivery.png" width="100%" style="max-width:340px; border-radius:10px;" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/Status-Live%20🟢-1A7A6B?style=flat-square" />
         <br/><br/>
-        <p>A startup-grade on-demand <strong>fashion delivery platform</strong> serving Addis Ababa. Built with pixel-perfect React Native UIs connected to a PostgreSQL-backed REST API — 3 repos, 3 user roles, deployed on Vercel + Railway.</p>
+        <p align="left">A startup-grade on-demand <strong>fashion delivery platform</strong> serving Addis Ababa. Built with pixel-perfect React Native UIs connected to a PostgreSQL-backed REST API — 3 repos, 3 user roles, live on Vercel + Railway.</p>
         <br/>
+        <img src="./assets/favicon.png" width="32" title="FitGo Icon" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/React_Native-Mobile-blue?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=nodedotjs" />
         <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat-square&logo=postgresql" />
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">AI Chatbot Integration</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 AAU Lost & Found System</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress%20🔨-orange?style=flat-square" />
+        <img src="./assets/AAU_LOST_AND_FOUND_SYSTEM.jpg" width="100%" style="max-width:340px; border-radius:10px;" />
         <br/><br/>
-        <p>AI-powered assistant chatbot integrations using the <strong>Anthropic Claude API</strong>. Exploring intelligent automation and natural-language interfaces for real-world applications.</p>
+        <img src="https://img.shields.io/badge/Status-Completed%20✅-1A7A6B?style=flat-square" />
+        <br/><br/>
+        <p align="left">A university portal system developed for <strong>Addis Ababa University</strong> — a smart lost and found platform integrated into the AAU ecosystem, enabling students and staff to report and recover lost items efficiently.</p>
         <br/>
-        <img src="https://img.shields.io/badge/Claude_API-AI-1A7A6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/Portal-AAU-1A7A6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full_Stack-Web-orange?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -105,8 +113,8 @@ const sophonyas = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophonyasb&layout=compact&theme=merko&hide_border=true&title_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8&langs_count=8" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sophonyasb&theme=merko&hide_border=true&ring=1A7A6B&fire=1A7A6B&currStreakLabel=1A7A6B&background=F5F9F8&sideLabels=2C2C2C&dates=666666" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophyJR&layout=compact&theme=merko&hide_border=true&title_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8&langs_count=8" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SophyJR&theme=merko&hide_border=true&ring=1A7A6B&fire=1A7A6B&currStreakLabel=1A7A6B&background=F5F9F8&sideLabels=2C2C2C&dates=666666" />
 </div>
 
 ---
@@ -118,6 +126,7 @@ const sophonyas = {
 - 🎨 **Full brand identity** — from logo to animated marketing site with scroll-triggered motion
 - ☁️ **Cloud-native deployments** — Cloudinary CDN, Railway Procfile, env-var management
 - 🤖 **AI integrations** — Anthropic Claude API for intelligent product features
+- 🏛️ **Institutional project** — AAU Smart Lost & Found System for a real university portal
 
 ---
 
