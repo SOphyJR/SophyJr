@@ -21,6 +21,7 @@ const sophonyas = {
   education: "3rd Year Addis Ababa University Stuudent @ AAU (2024–2027)",
   building: "FitGo Delivery — fashion delivery platform",
   passions: [
+    "UI / UX",
     "AI-powered products",
     "Cloud infrastructure",
     "Scalable systems architecture",
