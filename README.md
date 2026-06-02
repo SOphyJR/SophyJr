@@ -113,11 +113,6 @@ const sophonyas = {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOphyJR&theme=github_dark" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=SOphyJR&label=Profile%20Views&color=1A7A6B&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/SOphyJR?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/SOphyJR?affiliations=OWNER&style=for-the-badge)
 ---
 
 ### 🏆 Highlights
