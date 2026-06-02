@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=SophyJR&show_icons=true&theme=merko&hide_border=true&title_color=1A7A6B&icon_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8" />
+<img align="right" width="300" src="Profile.jpg" />
 
 ### 👋 About Me
 
