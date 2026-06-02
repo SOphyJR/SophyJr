@@ -1,16 +1,142 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SOphyJR/SophyJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=200&section=header&text=Sophonyas%20Bewuketu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=a8e6da" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A7A6B&center=true&vCenter=true&width=600&lines=Building+FitGo+%E2%80%94+On-demand+Fashion+Delivery;React+Native+%7C+Node.js+%7C+PostgreSQL;AI-Powered+Products+%7C+Cloud+Infrastructure;3rd-Year+IS+Student+%40+AAU)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=sophonyasb&show_icons=true&theme=merko&hide_border=true&title_color=1A7A6B&icon_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8" />
+
+### 👋 About Me
+
+```typescript
+const sophonyas = {
+  role: "Full-Stack Web & Mobile Developer",
+  location: "Addis Ababa, Ethiopia 🇪🇹",
+  education: "BSc Information Systems @ AAU (2024–2027)",
+  building: "FitGo Delivery — fashion delivery platform",
+  passions: [
+    "AI-powered products",
+    "Cloud infrastructure",
+    "Scalable systems architecture",
+  ],
+  goal: "Grow FitGo into a funded, multi-city business 🚀",
+};
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+**Design & AI**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-1A7A6B?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FitGo Delivery</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live%20🟢-1A7A6B?style=flat-square" />
+        <br/><br/>
+        <p>A startup-grade on-demand <strong>fashion delivery platform</strong> serving Addis Ababa. Built with pixel-perfect React Native UIs connected to a PostgreSQL-backed REST API — 3 repos, 3 user roles, deployed on Vercel + Railway.</p>
+        <br/>
+        <img src="https://img.shields.io/badge/React_Native-Mobile-blue?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat-square&logo=postgresql" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI Chatbot Integration</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress%20🔨-orange?style=flat-square" />
+        <br/><br/>
+        <p>AI-powered assistant chatbot integrations using the <strong>Anthropic Claude API</strong>. Exploring intelligent automation and natural-language interfaces for real-world applications.</p>
+        <br/>
+        <img src="https://img.shields.io/badge/Claude_API-AI-1A7A6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=nodedotjs" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophonyasb&layout=compact&theme=merko&hide_border=true&title_color=1A7A6B&text_color=2C2C2C&bg_color=F5F9F8&langs_count=8" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sophonyasb&theme=merko&hide_border=true&ring=1A7A6B&fire=1A7A6B&currStreakLabel=1A7A6B&background=F5F9F8&sideLabels=2C2C2C&dates=666666" />
+</div>
+
+---
+
+### 🏆 Highlights
+
+- 🎓 **3rd-year IS student** shipping production apps — not just side projects
+- 🔐 **Firebase Auth + PostgreSQL** hybrid auth system across mobile & web
+- 🎨 **Full brand identity** — from logo to animated marketing site with scroll-triggered motion
+- ☁️ **Cloud-native deployments** — Cloudinary CDN, Railway Procfile, env-var management
+- 🤖 **AI integrations** — Anthropic Claude API for intelligent product features
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-contactsophonyas@gmail.com-1A7A6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactsophonyas@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+251906089808-1A7A6B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+251906089808)
+[![Location](https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-1A7A6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Addis+Ababa)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=100&section=footer" />
+
+*"Building products that matter, one commit at a time."*
+
+</div>
