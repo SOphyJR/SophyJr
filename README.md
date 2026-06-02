@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=200&section=header&text=Sophonyas%20Bewuketu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=a8e6da" />
 
-<img src="./assets/profile.jpg" width="100%" />
+<img src="profile.jpg" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="Profile.jpg" />
+<img align="right" width="110" src="Profile.jpg" />
 
 ### 👋 About Me
 
