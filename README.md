@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A7A6B&height=200&section=header&text=Sophonyas%20Bewuketu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=a8e6da" />
 
-<img src="./assets/profile.jpg" width="110" />
+<img src="./assets/profile.jpg" width="100%" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 const sophonyas = {
   role: "Full-Stack Web & Mobile Developer",
   location: "Addis Ababa, Ethiopia 🇪🇹",
-  education: "BSc Information Systems @ AAU (2024–2027)",
+  education: "3rd Year Addis Ababa University Stuudent @ AAU (2024–2027)",
   building: "FitGo Delivery — fashion delivery platform",
   passions: [
     "AI-powered products",
